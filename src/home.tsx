@@ -50,7 +50,7 @@ const Home = () => {
               onMouseEnter={moveButton}
               onTouchStart={moveButton}
               onClick={handleNo}
-              className="text-white p-2 px-6 rounded-lg font-bold bg-red-500 cursor-pointer hover:bg-red-600 transition text-lg absolute"
+              className="text-white p-2 px-6 rounded-lg font-bold bg-red-500 cursor-pointer hover:bg-red-600 transition text-lg "
             >
               NO
             </button>
