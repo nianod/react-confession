@@ -4,20 +4,16 @@ A cute & chaotic React app that asks the most important question in life:
 
 🗣️ "Will you be my Partner?"
 
-They click YES, You win.
-They click NO, The button dodges like it's allergic to rejection.
-
-
 
 ## 🧠 Features
 
 ✅ A direct YES/NO question powered by useState
 
-✅ Celebratory message on "YES" with ✨Yaaay!✨ energy
+✅ Celebratory message on "YES" 
 
-✅ Rejection avoidance with a dancing NO button 💃
+✅ Rejection avoidance with a dancing NO button 
 
-✅ Alert for confused users who dare to click NO 😤
+✅ Alert for confused users who dare to click NO 
 
 ✅ Fully responsive
 
@@ -25,10 +21,10 @@ They click NO, The button dodges like it's allergic to rejection.
 ### 🚀 How to Run It Locally
  ```js
 git clone https://github.com/nianod/react-confession.git
-cd react-love-confession
+cd react-confession
 npm install
 npm run dev
-Then open http://localhost:5173🙏
+Then open http://localhost:5173
 ```
 
 
