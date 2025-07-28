@@ -8,7 +8,9 @@ They click YES, You win.
 They click NO, The button dodges like it's allergic to rejection.
 
 
-🧠 Features
+
+## 🧠 Features
+
 ✅ A direct YES/NO question powered by useState
 
 ✅ Celebratory message on "YES" with ✨Yaaay!✨ energy
