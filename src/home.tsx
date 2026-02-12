@@ -57,7 +57,7 @@ const Home = () => {
         <div className="text-center animate-bounce">
           <h2 className="font-semibold flex flex-col items-center text-4xl mb-4 animate-pulse">
             Yaaay! 🥰 <br />
-            <span className="text-2xl mt-4">Let's meet on Friday!</span>
+            <span className="text-2xl mt-4">Let's meet on Sartuday!</span>
           </h2>
           <div className="heart-animation">💖</div>
           <style >{`
@@ -76,7 +76,7 @@ const Home = () => {
       ) : (
         <>
           <h1 className="font-semibold text-xl mb-2">Arnold says:</h1>
-          <p className="font-semibold text-lg mb-4">Will you be my Girlfriend?</p>
+          <p className="font-semibold text-lg mb-4">Will you be my Valentine?</p>
           <div className="flex gap-4 mt-3 relative">
             <button
               onClick={handleYes}
